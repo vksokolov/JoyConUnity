@@ -1,7 +1,8 @@
 # JoyConUnity
 
 Thanks to [Looking-Glass](https://github.com/Looking-Glass) and [wormyrocks](https://github.com/wormyrocks) for [their JoyCon lib for Unity](https://github.com/Looking-Glass/JoyconLib), which apparently hadn't all the scripts and doesn't work at "as is" state
-Thanks to [gb2111](https://github.com/gb2111) for (https://github.com/gb2111/JoyconLib-4-CS)
+
+Thanks to [gb2111](https://github.com/gb2111) for [JoyconLib-4-CS](https://github.com/gb2111/JoyconLib-4-CS)
 
 This project build from these two and contains an Example Scene
 I've tested it on Win10, works perfectly for me
